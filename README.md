@@ -12,7 +12,7 @@ Criando um Banco Digital com Java e Orientação a Objetos
 O objetivo deste projeto prático hands-on é reforçar o conhecimento em Programação Orientada a Objetos (POO) em Java, através da implementação de um banco digital.
 
 ## 📚 Estrutura
-As classes e interfaces estão em <a href="https://github.com/GustavoYM01/desafio-uml-dio/tree/main/app/src/main/java/desafio">acessar códigos</a>
+As classes e interfaces estão em <a href="https://github.com/GustavoYM01/desafio-banco-digital-dio/tree/main/app/src/main/java/desafio/banco_digital">acessar códigos</a>
 
 ### Requisitos Técnicos:
 - Conhecimentos básicos de Programação Orientada a Objetos em Java;
